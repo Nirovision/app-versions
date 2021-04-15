@@ -1,3 +1,6 @@
 {
-    "doorkeeper": 1
+    "doorkeeper": {
+        "version": "1.0",
+        "build": "1"
+    }
 }
